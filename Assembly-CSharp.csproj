@@ -57,8 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AnimateHandOnInput.cs" />
+    <Compile Include="Assets\Scripts\DebrisManager.cs" />
+    <Compile Include="Assets\Scripts\TransparencySwitch.cs" />
     <Compile Include="Assets\HandData.cs" />
     <Compile Include="Assets\GrabHandPose.cs" />
+    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\ShaderChange.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\hover.shader" />
